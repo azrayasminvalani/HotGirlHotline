@@ -1,6 +1,6 @@
 # 💖 Hot Girl Hotline
 
-An affirmative desktop app for all the girlies going through breakups - powered by Amaya Papay's wisdom from love island. (Just for fun) Built with Python, PyWebView, and Pygame.
+An affirmative desktop app for all the girlies going through breakups - powered by Amaya Papaya's wisdom from love island. (Just for fun) Built with Python, PyWebView, and Pygame.
 
 ---
 
