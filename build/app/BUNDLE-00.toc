@@ -1,0 +1,1 @@
+([('app', '/Users/azravalani/Desktop/affirmations/dist/app', 'EXECUTABLE')],)
